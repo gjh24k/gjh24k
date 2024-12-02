@@ -2,3 +2,7 @@
 
 	： git config --global http.proxy http://127.0.0.1:7897
 	（翻墙软件的服务地址127.0.0.1:7897绑定一下）
+	
+添加到暂存区 ：git add .
+
+放入仓库  ： git commit -m "newX"
