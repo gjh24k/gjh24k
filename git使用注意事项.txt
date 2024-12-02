@@ -6,3 +6,6 @@
 添加到暂存区 ：git add .
 
 放入仓库  ： git commit -m "newX"
+
+
+创建新分支 ：  git checkout -b develop
