@@ -8,10 +8,8 @@
 放入仓库  ： git commit -m "newX"
 
 
-<<<<<<< HEAD
+
 查看修改的文件： git log --stat
-=======
+
 创建新分支 ：  git checkout -b develop
 
-.
->>>>>>> develop
